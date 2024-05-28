@@ -6,6 +6,7 @@ This template provides a minimal setup to get React working in Vite. Additionall
 - Tailwindcss
 - Prettier-plugin-tailwindcss
 - Flowbite React
+- Relume React Library
 
 ## Dependencies
 - Tailwindcss
@@ -15,3 +16,4 @@ This template provides a minimal setup to get React working in Vite. Additionall
 - Prettier-plugin-tailwindcss
 - react-router-dom
 - react-query
+- framer-motion
